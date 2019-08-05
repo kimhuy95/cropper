@@ -1,7 +1,5 @@
-apply plugin: 'android-library'
-
-version = "2.0.0"
-group = "com.edmodo"
+apply plugin: 'com.android.library'
+apply plugin: 'maven'
 
 android {
 
